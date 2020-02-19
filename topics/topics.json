@@ -1,14 +1,44 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лаба 1",
+        "description": "Лабораторная работа 1",
         "preview": "img/use-case-diagram.png"
     },
-    {
+     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
-    }
+        "title": "Лаба 2",
+        "description": "Лабораторная работа 2",
+        "preview": "img/use-case-diagram.png"
+    },
+     {
+        "id": 3,
+        "title": "Лаба 3",
+        "description": "Лабораторная работа 3",
+        "preview": "img/use-case-diagram.png"
+    },
+     {
+        "id": 4,
+        "title": "Лаба 4",
+        "description": "Лабораторная работа 4",
+        "preview": "img/use-case-diagram.png"
+    },
+     {
+        "id": 5,
+        "title": "Лаба 5",
+        "description": "Лабораторная работа 5",
+        "preview": "img/use-case-diagram.png"
+    },
+     {
+        "id": 6,
+        "title": "Лаба 6",
+        "description": "Лабораторная работа 6",
+        "preview": "img/use-case-diagram.png"
+    },
+     {
+        "id": 7,
+        "title": "Лаба 7",
+        "description": "Лабораторная работа 7",
+        "preview": "img/use-case-diagram.png"
+    },
 ]
