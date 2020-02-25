@@ -1,11 +1,11 @@
- {
-            "type": "image",
-            "data": "https://github.com/kasimovskiy/kasimovsky/blob/master/img/03-02.jpg"
-        },
 {
   "title": "Лабораторная работа №1",
   "items": [
     {
+            "type": "image",
+            "data": "https://github.com/kasimovskiy/kasimovsky/blob/master/img/03-02.jpg"
+        },
+   {
       "type": "text",
       "data": [
         {
