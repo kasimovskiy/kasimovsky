@@ -8,7 +8,7 @@
     {
         "id": 2,
         "title": "Лабораторная работа 2",
-        "description": "Разработка UML диаграммы прецедентов",
+        "description": "Разработка UML Class",
         "preview": "img/use-case-diagram.png"
     },
     {
