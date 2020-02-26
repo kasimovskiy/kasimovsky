@@ -1,10 +1,10 @@
 
 {
-  "title": "Лабораторная работа №1",
+  "title": "Лабораторная работа №2",
   "items": [
     {
             "type": "image",
-            "data": "img/classDiagram.jpg"
+            "data": "img/classDiagram.jpg"   
         },
    {
       "type": "text",
