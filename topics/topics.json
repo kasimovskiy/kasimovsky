@@ -3,42 +3,42 @@
         "id": 1,
         "title": "Лабораторная работа 1",
         "description": "Разработка UML диаграммы прецедентов",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     },
     {
         "id": 2,
         "title": "Лабораторная работа 2",
         "description": "Разработка UML Class",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     },
     {
         "id": 3,
         "title": "Лабораторная работа 3",
         "description": "Реализация мини приложения SPA, разработка UML Sequence",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     },
     {
         "id": 4,
         "title": "Лабораторная работа 4",
         "description": "Разработка UML диаграммы прецедентов",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     },
     {
         "id": 5,
         "title": "Лабораторная работа 5",
         "description": "Разработка UML диаграммы прецедентов",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     },
     {
         "id": 6,
         "title": "Лабораторная работа 6",
         "description": "Разработка UML диаграммы прецедентов",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     },
     {
         "id": 7,
         "title": "Лабораторная работа 7",
         "description": "Разработка UML диаграммы прецедентов",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/chungus.jpg"
     }
 ]
